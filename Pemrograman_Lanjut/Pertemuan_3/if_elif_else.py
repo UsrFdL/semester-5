@@ -20,4 +20,3 @@ elif nilai > 0:
     print('E')
 else:
     print('Nilai invalid')
-    
